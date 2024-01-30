@@ -1,0 +1,14 @@
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\bin\Debug\Drawing Coeff generator.exe.config
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\bin\Debug\Drawing Coeff generator.exe
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\bin\Debug\Drawing Coeff generator.pdb
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\obj\Debug\Drawing Coeff generator.csproj.AssemblyReference.cache
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\obj\Debug\Drawing Coeff generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\obj\Debug\Drawing_Coeff_generator.Properties.Resources.resources
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\obj\Debug\Drawing Coeff generator.csproj.GenerateResource.cache
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\obj\Debug\Drawing Coeff generator.csproj.CoreCompileInputs.cache
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\obj\Debug\Drawing Coeff generator.exe
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\obj\Debug\Drawing Coeff generator.pdb
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\obj\Debug\Drawing_Coeff_generator.mainForm.resources
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\obj\Debug\Drawing_Coeff_generator.TextPrompt.resources
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\bin\Debug\PixelFont\creativeblock-text-4x5.ttf
+C:\Users\Florent\source\repos\Drawing Coeff generator\Drawing Coeff generator\bin\Debug\PixelFont\5x5-mono.ttf
